@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+.incuwise-logo-final-119,
+.landing-97-child {
+  position: absolute;
+  width: 501px;
+  height: 501px;
+  object-fit: cover;
+}
+.incuwise-logo-final-119 {
+  top: 42px;
+  left: 55px;
+  width: 94px;
+  height: 93px;
+}
+
+.contact19,
+.if-an-investment4,
+.we-market-your4 {
+  position: absolute;
+  display: inline-block;
+}
+.we-market-your4 {
+  font-size: 143px;
+    font-weight: 800;
+    font-family: "Poppins";
+    text-align: center;
+    width: 1165px;
+    height: 263px;
+    line-height: 96%;
+}
+.if-an-investment4 {
+  position: absolute;
+  font-size: 24px;
+  line-height: 110.5%;
+  font-family: "Plus Jakarta Sans";
+  color: #f3f3f3;
+  display: inline-block;
+  width: 1510px;
+  height: 57px;
+} 
+.group-child26,
+.group-child27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+}
+.group-child26 {
+  background-color: rgba(255, 255, 255, 0.32);
+  height: 640px;
+}
+.group-child27 {
+  background-color: #fff;
+  height: 77px;
+  height: 100vh;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+.group-child36,
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+}
+.group-child36 {
+  background-color: rgba(255, 255, 255, 0.32);
+  height: 560px;
+ 
+}
+.group-child37 {
+  background-color: #fff;
+  height: 77px;
+}
+/* 
+    animation: mymove  5s 1;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from { height: 0px;}
+  to {  height: 430px;}
+}   */
+.rectangle-parent16 {
+  position: absolute;
+  top: 189px;
+  left: 1843px;
+  width: 18px;
+  height: 640px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 189px;
+  left: 1843px;
+  width: 18px;
+  height: 640px;
+}
+.incuwise-logo-final-219 {
+  position: absolute;
+  top: 42px;
+  left: 729px;
+  width: 462px;
+  height: 108px;
+  object-fit: cover;
+}
+.landing-97 {
+  position: relative;
+  background-color: #6d01b6;
+  position: relative;
+  background-color: #6d01b6;
+  width: 358%;
+  height: 122vh;
+  overflow: hidden;
+  text-align: left;
+  font-size: 30px;
+  color: #fff;
+  font-family:" Poppins";
+  margin-left: -40rem;
+  margin-top: -8rem;
+ 
+
+}

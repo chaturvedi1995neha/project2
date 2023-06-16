@@ -1,0 +1,925 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@300;400;600;900&display=swap');
+ body{
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+.cloud-bg-icon8,
+.shadow-copy-icon16 {
+  position: absolute;
+  height: 77.18%;
+  width: 95.55%;
+  top: 22.82%;
+  right: 5%;
+  bottom: 0;
+  left: -0.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cloud-bg-icon8 {
+  height: 58.82%;
+  width: 76.3%;
+  top: 41.18%;
+  right: 14.35%;
+  left: 9.35%;
+}
+.backgroundcloud-bg58,
+.backgroundcloud-bg59 {
+  position: absolute;
+  top: 258px;
+  left: 0;
+  width: 392.3px;
+  height: 258px;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.backgroundcloud-bg59 {
+  top: 313px;
+  left: 315.39px;
+  width: 307.61px;
+  height: 203px;
+}
+.pencil-icon4 {
+  position: absolute;
+  height: 74.33%;
+  width: 35%;
+  top: 13%;
+  right: 32.33%;
+  bottom: 12.67%;
+  left: 32.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.stuffpencils24 {
+  position: absolute;
+  top: 327px;
+  left: 336.81px;
+  width: 58.41px;
+  height: 71px;
+}
+.table-locker-icon4 {
+  position: absolute;
+  height: 102.6%;
+  width: 82.2%;
+  top: -1.8%;
+  right: 11.4%;
+  bottom: -0.8%;
+  left: 6.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book-icon8,
+.table-locker14 {
+  position: absolute;
+  top: 401px;
+  left: 426.37px;
+  width: 98.32px;
+  height: 116px;
+}
+.book-icon8 {
+  height: 32.67%;
+  width: 124%;
+  top: 29.67%;
+  right: 22.67%;
+  bottom: 37.67%;
+  left: -46.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.book-icon9,
+.stuffbook24 {
+  position: absolute;
+  top: 321px;
+  left: 416.63px;
+  width: 117.79px;
+  height: 140px;
+}
+.book-icon9 {
+  height: 22%;
+  width: 40.83%;
+  top: 39%;
+  right: 29.5%;
+  bottom: 39%;
+  left: 29.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.stuffbook34 {
+  position: absolute;
+  top: 364px;
+  left: 418.58px;
+  width: 117.79px;
+  height: 139px;
+}
+.grid-icon4,
+.grid-shadow-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.grid-icon4 {
+  height: 88.4%;
+  width: 88.41%;
+  top: 2%;
+  right: 5.03%;
+  bottom: 9.6%;
+  left: 6.55%;
+}
+.grid9 {
+  position: absolute;
+  height: 95.64%;
+  width: 95.73%;
+  top: 2.64%;
+  right: 2.18%;
+  bottom: 1.73%;
+  left: 2.09%;
+}
+.grid8,
+.ui-icon16 {
+  position: absolute;
+  top: 81px;
+  left: 212.21px;
+  width: 216.1px;
+  height: 259px;
+}
+.ui-icon16 {
+  height: 63.88%;
+  width: 74.95%;
+  top: 3.45%;
+  right: 11.76%;
+  bottom: 32.66%;
+  left: 13.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.picture4 {
+  position: absolute;
+  height: 99.29%;
+  width: 75.29%;
+  top: 7.29%;
+  right: 12.29%;
+  bottom: -6.57%;
+  left: 12.43%;
+}
+.ui-icon17,
+.uipicture14 {
+  position: absolute;
+  top: 146px;
+  left: 265.75px;
+  width: 110px;
+  height: 131px;
+}
+.ui-icon17 {
+  height: 88.72%;
+  width: 85.93%;
+  top: 4.54%;
+  right: 7.04%;
+  bottom: 6.74%;
+  left: 7.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-parent26 {
+  position: absolute;
+  height: 72.7%;
+  width: 54%;
+  top: 13.7%;
+  right: 23%;
+  bottom: 13.6%;
+  left: 23%;
+}
+.pin-icon4,
+.uibase14 {
+  position: absolute;
+  top: 129px;
+  left: 313.45px;
+  width: 184.95px;
+  height: 220px;
+}
+.pin-icon4 {
+  height: 78.37%;
+  width: 80.87%;
+  top: 0;
+  right: 9.4%;
+  bottom: 21.63%;
+  left: 9.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-parent27 {
+  position: absolute;
+  height: 35.6%;
+  width: 29.8%;
+  top: 29.4%;
+  right: 35.1%;
+  bottom: 35%;
+  left: 35.1%;
+}
+.elementspin54 {
+  position: absolute;
+  top: 59px;
+  left: 147.96px;
+  width: 196.63px;
+  height: 234px;
+}
+.plant-icon4,
+.shadow-copy-icon18 {
+  position: absolute;
+  height: 72.89%;
+  width: 55.5%;
+  top: 18.6%;
+  right: 25.4%;
+  bottom: 8.5%;
+  left: 19.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.plant-icon4 {
+  height: 81.4%;
+  width: 43.5%;
+  right: 31.4%;
+  bottom: 0;
+  left: 25.1%;
+}
+.plant14 {
+  position: absolute;
+  top: 282px;
+  left: 50.62px;
+  width: 194.69px;
+  height: 235px;
+}
+.layer-95-icon4,
+.layer-96-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.layer-96-icon4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 100%;
+  bottom: 0;
+  left: -100%;
+  opacity: 0.75;
+  mix-blend-mode: normal;
+}
+.layer-95-icon4 {
+  height: 48.86%;
+  width: 67.88%;
+  top: -122.28%;
+  right: 147.01%;
+  bottom: 42.42%;
+  left: 20.12%;
+}
+.cloud8 {
+  position: absolute;
+  height: 61.73%;
+  width: 85.18%;
+  top: 19.18%;
+  right: 7.36%;
+  bottom: 19.09%;
+  left: 7.45%;
+}
+.backgroundcloud14 {
+  position: absolute;
+  top: 0;
+  left: 550.97px;
+  width: 196.63px;
+  height: 235px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.layer-27-icon4 {
+  position: absolute;
+  height: 53.62%;
+  width: 74.87%;
+  top: 7.4%;
+  right: 13.67%;
+  bottom: 38.98%;
+  left: 11.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cloud9 {
+  position: absolute;
+  height: 59%;
+  width: 86.45%;
+  top: 17.82%;
+  right: 6.73%;
+  bottom: 23.18%;
+  left: 6.82%;
+}
+.backgroundcloud24 {
+  position: absolute;
+  top: 54px;
+  left: 68.14px;
+  width: 184.95px;
+  height: 222px;
+}
+.imac-icon4,
+.imac9 {
+  position: absolute;
+  bottom: 0;
+}
+.imac-icon4 {
+  height: 85.56%;
+  width: 66.35%;
+  top: 14.44%;
+  right: 16.35%;
+  left: 17.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.imac9 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: -0.86%;
+  left: 0.86%;
+}
+.imac8,
+.layer-130-icon4 {
+  position: absolute;
+  top: 235px;
+  left: 174.25px;
+  width: 205.4px;
+  height: 154px;
+}
+.layer-130-icon4 {
+  height: 93.17%;
+  width: 99.64%;
+  top: 8.33%;
+  right: -0.93%;
+  bottom: -1.5%;
+  left: 1.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.table14,
+.ui-icon18 {
+  position: absolute;
+  top: 376px;
+  left: 174.25px;
+  width: 274.51px;
+  height: 141px;
+}
+.ui-icon18 {
+  height: 80.93%;
+  width: 88.29%;
+  top: 7.91%;
+  right: 5.86%;
+  bottom: 11.16%;
+  left: 5.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-parent28 {
+  position: absolute;
+  height: 43%;
+  width: 64.9%;
+  top: 28.5%;
+  right: 17.5%;
+  bottom: 28.5%;
+  left: 17.6%;
+}
+.uibase54 {
+  position: absolute;
+  top: 199px;
+  left: 183.01px;
+  width: 195.66px;
+  height: 235px;
+}
+.dots-icon4 {
+  height: 72.5%;
+  width: 91.74%;
+  top: 0;
+  right: 4.13%;
+  bottom: 27.5%;
+  left: 4.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dots-icon4,
+.dots4,
+.uidots4 {
+  position: absolute;
+}
+.dots4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.uidots4 {
+  top: 276px;
+  left: 227.78px;
+  width: 24.34px;
+  height: 9px;
+}
+.layer-109-copy4,
+.layer-24-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.layer-24-icon4 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0.66;
+  mix-blend-mode: normal;
+}
+.layer-109-copy4 {
+  height: 71.86%;
+  width: 72.88%;
+  top: 8.6%;
+  right: 14.39%;
+  bottom: 19.53%;
+  left: 12.74%;
+}
+.ui4 {
+  position: absolute;
+  height: 43%;
+  width: 42.4%;
+  top: 28.2%;
+  right: 28.7%;
+  bottom: 28.8%;
+  left: 28.9%;
+}
+.slack-icon4,
+.uibase154 {
+  position: absolute;
+  top: 210px;
+  left: 179.11px;
+  width: 196.63px;
+  height: 236px;
+}
+.slack-icon4 {
+  height: 90.42%;
+  width: 94.04%;
+  top: 0;
+  right: 2.98%;
+  bottom: 9.58%;
+  left: 2.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-parent29 {
+  position: absolute;
+  height: 24%;
+  width: 23.5%;
+  top: 38%;
+  right: 38.2%;
+  bottom: 38%;
+  left: 38.3%;  
+}
+.elementsslack4,
+.message-icon4 {
+  position: absolute;
+  top: 207px;
+  left: 177.17px;
+  width: 196.63px; 
+  height: 234px;
+}
+.message-icon4 {
+  height: 75.39%;
+  width: 81.6%;
+  top: 10.73%;
+  right: 9.2%;
+  bottom: 13.88%;
+  left: 9.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-copy-parent2 {
+  position: absolute;
+  height: 31.7%;
+  width: 41.3%;
+  top: 34.2%;
+  right: 29.3%;
+  bottom: 34.1%;
+  left: 29.4%;
+}
+.seat-icon4,
+.uimessage24 {
+  position: absolute;
+  top: 120px;
+  left: 137.25px;
+  width: 195.66px;
+  height: 235px;
+}
+.seat-icon4 {
+  height: 90.86%;
+  width: 53.86%;
+  top: 9.14%;
+  right: 23%;
+  bottom: 0;
+  left: 23.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.diagram-copy-24,
+.seat44 {
+  position: absolute;
+  top: 353px;
+  left: 237.52px;
+  width: 138.23px;
+  height: 164px;
+}
+.diagram-copy-24 {
+  height: 74.79%;
+  width: 75%;
+  top: 1.37%;
+  right: 12.37%;
+  bottom: 23.84%;
+  left: 12.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-copy-4-parent2 {
+  position: absolute;
+  height: 36.5%;
+  width: 37.2%;
+  top: 31.8%;
+  right: 31.4%;
+  bottom: 31.7%;
+  left: 31.4%;
+}
+.cat-icon4,
+.elementsdiagram14 {
+  position: absolute;
+  top: 112px;
+  left: 316.37px;
+  width: 178.14px;
+  height: 213px;
+}
+.cat-icon4 {
+  height: 38.17%;
+  width: 68.83%;
+  top: 31%;
+  right: 15.5%;
+  bottom: 30.83%;
+  left: 15.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.stuffcat14,
+.ui-icon19 {
+  position: absolute;
+  top: 312px;
+  left: 153.8px;
+  width: 117.79px;
+  height: 140px;
+}
+.ui-icon19 {
+  height: 83.44%;
+  width: 80.33%;
+  top: 6.54%;
+  right: 9.7%;
+  bottom: 10.02%;
+  left: 9.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-copy-3-parent2 {
+  position: absolute;
+  height: 45.9%;
+  width: 36.1%;
+  top: 27.1%;
+  right: 31.9%;
+  bottom: 27%;
+  left: 32%;
+}
+.diagram-icon4,
+.uibase244 {
+  position: absolute;
+  top: 145px;
+  left: 68.14px;
+  width: 195.66px;
+  height: 233px;
+}
+.diagram-icon4 {
+  height: 58.5%;
+  width: 64.55%;
+  top: 7.14%;
+  right: 22.42%;
+  bottom: 34.35%;
+  left: 13.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.shadow-parent30 {
+  position: absolute;
+  height: 29.4%;
+  width: 33%;
+  top: 35.3%;
+  right: 33.5%;
+  bottom: 35.3%;
+  left: 33.5%;
+}
+.elementsdiagram44 {
+  position: absolute;
+  top: 136px;
+  left: 71.06px;
+  width: 196.63px;
+  height: 234px;
+}
+.shadow-icon33,
+.text-icon4 {
+  position: absolute;
+  height: 97.5%;
+  width: 100%;
+  top: 2.5%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.text-icon4 {
+  height: 67.5%;
+  width: 94.44%;
+  top: 0;
+  right: 2.78%;
+  bottom: 32.5%;
+  left: 2.78%;
+}
+.shadow-parent31 {
+  position: absolute;
+  height: 10%;
+  width: 54%;
+  top: 45%;
+  right: 23%;
+  bottom: 45%;
+  left: 23%;
+}
+.uitext74 {
+  position: absolute;
+  top: 239px;
+  left: 126.55px;
+  width: 78.85px;
+  height: 94px;
+}
+.shadow-icon34,
+.ui-text-icon4 {
+  position: absolute;
+  height: 99.48%;
+  width: 100%;
+  top: 0.52%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ui-text-icon4 {
+  height: 93.75%;
+  width: 96.44%;
+  top: 0;
+  right: 1.78%;
+  bottom: 6.25%;
+  left: 1.78%;
+}
+.shadow-parent32 {
+  position: absolute;
+  height: 48%;
+  width: 70.25%;
+  top: 26%;
+  right: 14.75%;
+  bottom: 26%;
+  left: 15%;
+}
+.cursor-1-icon4,
+.uitext64 {
+  position: absolute;
+  top: 223px;
+  left: 366.99px;
+  width: 78.85px;
+  height: 93px;
+}
+.cursor-1-icon4 {
+  height: 49.04%;
+  width: 60.61%;
+  top: 7.67%;
+  right: 27.27%;
+  bottom: 43.29%;
+  left: 12.12%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cursor4 {
+  position: absolute;
+  height: 91.25%;
+  width: 74.25%;
+  top: 14.25%;
+  right: 6.75%;
+  bottom: -5.5%;
+  left: 19%;
+}
+.lamp-icon4,
+.uicursor44 {
+  position: absolute;
+  top: 267px;
+  left: 162.56px;
+  width: 77.88px;
+  height: 95px;
+}
+.lamp-icon4 {
+  height: 70.83%;
+  width: 70.67%;
+  top: 29.17%;
+  right: 14.67%;
+  bottom: 0;
+  left: 14.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lamp-table14 {
+  position: absolute;
+  top: 246px;
+  left: 334.86px;
+  width: 116.81px;
+  height: 143px;
+}
+.backgroundcloud-bg5-parent2 {
+  position: absolute;
+  top: 304px;
+  left: 649px;
+  width: 623px;
+  height: 517px;
+  opacity: 0.75;
+}
+.landing-91-child {
+  position: absolute;
+  top: 265px;
+  left: 300px;
+  border: 5px solid #1d428a;
+  box-sizing: border-box;
+  width: 560px;
+  height: 560px;
+}
+.incuwise-logo-final-124 {
+  position: absolute;
+  top: 42px;
+  left: 55px;
+  width: 94px;
+  height: 93px;
+  object-fit: cover;
+}
+.contact24 {
+  top: 68px;
+  left: 1000px;
+  font-weight: 500;
+  width: 123px;
+  height: 33px;
+}
+.contact24,
+.in-addition-to4,
+.we-develop-your4 {
+  position: absolute;
+  display: inline-block;
+}
+.we-develop-your4 {
+ 
+  font-size: 171px;
+  font-weight: 800;
+  font-family:" Poppins";
+  text-align: center;
+  width: 1105px;
+  height: 179px;
+  line-height: 11rem;
+ 
+}
+
+
+.in-addition-to4 {
+  position: absolute;
+  top: 900px;
+  left: 100px;
+  font-size: 20px;
+  line-height: 110.5%;
+  font-family: "Plus Jakarta Sans";
+  color: #f3f3f3;
+  display: inline-block;
+  width: 1090px;
+  height: 57px;
+}
+.group-child36,
+.group-child37 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 18px;
+}
+.group-child36 {
+  background-color: rgba(255, 255, 255, 0.32);
+  height: 560px;
+ 
+}
+.group-child37 {
+  background-color: #fff;
+  height: 77px;
+}
+
+    /* animation: mymove  5s 1;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from { height: 0px;}
+  to {  height: 650px;}
+}   */
+.rectangle-parent16 {
+  position: absolute;
+  top: 189px;
+  left: 1843px;
+  width: 18px;
+  height: 640px;
+}
+.incuwise-logo-final-224 {
+  position: absolute;
+  top: 42px;
+  left: 729px;
+  width: 462px;
+  height: 108px;
+  object-fit: cover;
+}
+.landing-91 {
+  position: relative;
+  background-color: #ce1141;
+  width: 140vw;
+  height: 122vh;
+  font-size: 30px;
+  color: #fff;
+  font-family:" Poppins";
+  margin-left: -42rem;
+  margin-top: -8rem;
+}

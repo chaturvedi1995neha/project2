@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@300;400;600;900&display=swap');
+.incuwise-logo-final-14 {
+  position: absolute;
+  top: 42px;
+  left: 28px;
+  width: 83px;
+  height: 85px;
+  object-fit: cover;
+}
+  .contact3,
+  .got-an-idea1,
+  .lets-talk1 {
+    position: absolute;
+    top: 68px;
+    left: 1075px;
+    font-weight: 500;
+    display: inline-block;
+    width: 123px;
+    height: 33px;
+  }
+  .got-an-idea1,
+  .lets-talk1 {
+    top: 320px;
+    left: 149px;
+    font-size: 32px;
+    font-weight: 600;
+    font-family: "Open Sans";
+    width: 210px;
+    height: 35px;
+  }
+  .contact4 {
+    top: 68px;
+    left: 1572px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: "Poppins";
+    width: 123px;
+    height: 33px;
+  }
+  .lets-talk1 {
+    top: 355px;
+      font-size: 93px;
+      font-weight: 800;
+      font-family: 'Poppins';
+      width: 515px;
+      height: 87px;
+  }
+  .landing-115-child {
+    position: absolute;
+    top: 462.5px;
+    left: 151.5px;
+    border-top: 7px solid #fff;
+    box-sizing: border-box;
+    width: 428px;
+    height: 7px;
+  }
+  .incuwise-logo-final-23 {
+    position: absolute;
+    top: 42px;
+    left: 729px;
+    width: 462px;
+    height: 108px;
+    object-fit: cover;
+  }
+  .landing-115 {
+    position: relative;
+    background-color: #1d428a;
+    width: 358%;
+    height: 150vh;
+  
+    text-align: left;
+    font-size: 116px;
+    color: #fff;
+    font-family: 'Poppins';
+    margin-left: -42rem;
+  margin-top: -8rem;
+  }
+    .landing-115:hover{
+    background-color: black;
+    transition-delay: 2s;
+  }  
+   /* .lets-talk1.hovered {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    margin-left: -10rem;
+    color: white;
+  }  */

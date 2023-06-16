@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@300;400;600;900&display=swap');
+ body{
+    margin: 0;
+    padding: 0;
+    background: white;
+  }
+  .incuwise-logo-final-114,
+  .landing-102-child {
+    position: absolute;
+    top: 189px;
+    left: 340px;
+    width: 331px;
+    height: 331px;
+    object-fit: cover;
+  }
+  .incuwise-logo-final-114 {
+    top: 42px;
+    left: 55px;
+    width: 94px;
+    height: 93px;
+  }
+  .contact14,
+  .we-help-you9 {
+    position: absolute;
+    top: 68px;
+    left: 1000px;
+    font-weight: 500;
+    display: inline-block;
+    width: 123px;
+    height: 33px;
+  }
+  .we-help-you9 {
+    font-size: 143px;
+    font-weight: 800;
+    font-family:" Poppins";
+    text-align: center;
+    width: 893px;
+    height: 263px;
+    line-height: 96%;
+  }
+  .carefully-planned-user4 {
+    position: absolute;
+    font-size: 24px;
+    line-height: 110.5%;
+    font-family: "Plus Jakarta Sans";
+    color: #f3f3f3;
+    display: inline-block;
+    width: 1223px;
+    height: 57px;
+  }
+  .group-child16,
+  .group-child17 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 18px;
+  }
+  .group-child16 {
+    background-color: rgba(255, 255, 255, 0.32);
+    height: 640px;
+  }
+  .group-child17 {
+    background-color: #fff;
+    height: 77px;
+  }
+    /* animation: mymove  5s 1;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from { height: 0px;}
+  to {  height: 480px;}
+}  */
+  .rectangle-parent6 {
+    position: absolute;
+    top: 189px;
+    left: 1843px;
+    width: 18px;
+    height: 640px;
+  }
+  .incuwise-logo-final-214 {
+    position: absolute;
+    top: 42px;
+    left: 729px;
+    width: 462px;
+    height: 108px;
+    object-fit: cover;
+  }
+  .landing-102 {
+    position: relative;
+    background-color: #004ed2;
+    width: 358%;
+    height: 122vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family: "Poppins";
+    margin-top: -7.99rem;
+    margin-left: -42rem;
+  }
+  

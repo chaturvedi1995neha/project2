@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@300;400;600;900&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background: white;
+  }
+  .vector-icon16 {
+    position: absolute;
+    height: 20.12%;
+    width: 9.33%;
+    top: 2.92%;
+    right: 19.57%;
+    bottom: 76.97%;
+    left: 71.1%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child {
+    position: absolute;
+    top: 189px;
+    left: 640px;
+    width: 640px;
+    height: 640px;
+  }
+  .incuwise-logo-final-19 {
+    position: absolute;
+    top: 42px;
+    left: 55px;
+    width: 94px;
+    height: 93px;
+    object-fit: cover;
+  }
+  .contact9 {
+    position: absolute;
+    top: 68px;
+    left: 1000px;
+    font-weight: 500;
+    display: inline-block;
+    width: 123px;
+    height: 33px;
+  }
+  .landing-109-item {
+    position: absolute;
+    height: 67.39%;
+    width: 100.55%;
+    top: 22.4%;
+    right: -0.55%;
+    bottom: 10.22%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child1,
+  .landing-109-child2,
+  .landing-109-child3,
+  .landing-109-inner {
+    position: absolute;
+    height: 21.12%;
+    width: 13.13%;
+    top: 11.1%;
+    right: 41.09%;
+    bottom: 67.78%;
+    left: 45.78%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child1,
+  .landing-109-child2,
+  .landing-109-child3 {
+    top: 11%;
+    right: 34.53%;
+    bottom: 67.88%;
+    left: 52.34%;
+  }
+  .landing-109-child2,
+  .landing-109-child3 {
+    height: 5.01%;
+    width: 2.6%;
+    top: 0;
+    right: 84.26%;
+    bottom: 94.99%;
+    left: 13.14%;
+  }
+  .landing-109-child3 {
+    top: 36.44%;
+    right: 12.28%;
+    bottom: 58.55%;
+    left: 85.12%;
+  }
+  .landing-109-child4,
+  .landing-109-child5,
+  .landing-109-child6,
+  .landing-109-child7,
+  .landing-109-child8 {
+    position: absolute;
+    height: 5.21%;
+    width: 2.76%;
+    top: 33.89%;
+    right: 60.61%;
+    bottom: 60.9%;
+    left: 36.63%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child5,
+  .landing-109-child6,
+  .landing-109-child7,
+  .landing-109-child8 {
+    width: 2.6%;
+    right: 84.26%;
+    left: 13.14%;
+  }
+  .landing-109-child6,
+  .landing-109-child7,
+  .landing-109-child8 {
+    height: 1.87%;
+    width: 1.15%;
+    top: 0;
+    right: 4.35%;
+    bottom: 98.13%;
+    left: 94.51%;
+  }
+  .landing-109-child7,
+  .landing-109-child8 {
+    height: 1.67%;
+    width: 0.89%;
+    top: 10.51%;
+    right: 6.07%;
+    bottom: 87.82%;
+    left: 93.04%;
+  }
+  .landing-109-child8 {
+    height: 1.87%;
+    width: 0.99%;
+    top: 20.53%;
+    right: 66.33%;
+    bottom: 77.6%;
+    left: 32.68%;
+  }
+  .landing-109-child10,
+  .landing-109-child11,
+  .landing-109-child12,
+  .landing-109-child9 {
+    position: absolute;
+    height: 1.67%;
+    width: 1.04%;
+    top: 41.45%;
+    right: 28.57%;
+    bottom: 56.88%;
+    left: 70.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child10,
+  .landing-109-child11,
+  .landing-109-child12 {
+    width: 0.99%;
+    top: 17.19%;
+    right: 16.69%;
+    bottom: 81.14%;
+    left: 82.32%;
+  }
+  .landing-109-child11,
+  .landing-109-child12 {
+    height: 1.77%;
+    width: 0.89%;
+    top: 0.79%;
+    right: 25.39%;
+    bottom: 97.45%;
+    left: 73.72%;
+  }
+  .landing-109-child12 {
+    height: 0.88%;
+    width: 0.47%;
+    top: 6.68%;
+    right: 57.75%;
+    bottom: 92.44%;
+    left: 41.78%;
+  }
+  .landing-109-child13,
+  .landing-109-child14,
+  .landing-109-child15,
+  .vector-icon17,
+  .vector-icon18 {
+    position: absolute;
+    height: 0.88%;
+    width: 0.52%;
+    top: 30.55%;
+    right: 35.14%;
+    bottom: 68.57%;
+    left: 64.34%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child14,
+  .landing-109-child15,
+  .vector-icon17,
+  .vector-icon18 {
+    width: 0.42%;
+    top: 9.63%;
+    right: 31.08%;
+    bottom: 89.49%;
+    left: 68.5%;
+  }
+  .landing-109-child15,
+  .vector-icon17,
+  .vector-icon18 {
+    height: 0.79%;
+    width: 0.47%;
+    top: 41.45%;
+    right: 73.58%;
+    bottom: 57.76%;
+    left: 25.95%;
+  }
+  .vector-icon17,
+  .vector-icon18 {
+    height: 23.98%;
+    width: 12.31%;
+    top: 11.26%;
+    right: 85.76%;
+    bottom: 64.76%;
+    left: 1.93%;
+  }
+  .vector-icon18 {
+    height: 13.69%;
+    width: 11.77%;
+    top: 0.67%;
+    right: 54.39%;
+    bottom: 85.64%;
+    left: 33.83%;
+  }
+  .landing-109-child16,
+  .landing-109-child17,
+  .landing-109-child18,
+  .vector-icon19 {
+    position: absolute;
+    height: 7.37%;
+    width: 4.03%;
+    top: 33.3%;
+    right: 2.15%;
+    bottom: 59.33%;
+    left: 93.82%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .landing-109-child16,
+  .landing-109-child17,
+  .landing-109-child18 {
+    height: 1.47%;
+    width: 0.83%;
+    top: 16.99%;
+    right: 48.07%;
+    bottom: 81.53%;
+    left: 51.09%;
+  }
+  .landing-109-child17,
+  .landing-109-child18 {
+    width: 0.78%;
+    right: 46.51%;
+    left: 52.71%;
+  }
+  .landing-109-child18 {
+    height: 2.95%;
+    width: 2.92%;
+    top: 23.33%;
+    right: 46.07%;
+    bottom: 73.72%;
+    left: 51.02%;
+  }
+  .we-help-you4,
+  .while-we-already4 {
+    position: absolute;
+    display: inline-block;
+  }
+  .we-help-you4 {
+    font-size: 146px;
+    font-weight: 800;
+    font-family:" Poppins";
+    text-align: center;
+    width: 838px;
+    height: 263px;
+    line-height: 96%;
+    margin-left: -1.5rem;
+  }
+  .while-we-already4 {
+    position: absolute;
+    font-size: 24px;
+    line-height: 110.5%;
+    font-family: "Plus Jakarta Sans";
+    color: #f3f3f3;
+    display: inline-block;
+    width: 1536px;
+    height: 57px;
+  }
+  .group-child6,
+  .group-child7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 18px;
+  }
+  .group-child6 {
+    background-color: rgba(255, 255, 255, 0.32);
+    height: 640px;
+    margin-top: -20px;
+  }
+  .group-child7 {
+    background-color: #fff;
+    height: 100px;
+  }
+    /* animation: mymove  5s 1;
+  animation-timing-function: linear;
+}
+
+@keyframes mymove {
+  from { height: 60px;}
+  to {  height: 430px;}
+}  */
+  .rectangle-parent1 {
+    position: absolute;
+    top: 189px;
+    left: 1843px;
+    width: 18px;
+    height: 640px;
+  }
+  .incuwise-logo-final-29 {
+    position: absolute;
+    top: 42px;
+    left: 729px;
+    width: 462px;
+    height: 108px;
+    object-fit: cover;
+  }
+  .landing-109 {
+    position: relative;
+    background-color: #9a9dbb;
+    width: 358%;
+    height: 122vh;
+    overflow: hidden;
+    text-align: left;
+    font-size: 30px;
+    color: #fff;
+    font-family:" Poppins";
+    margin-top: -7.99rem;
+    margin-left: -42rem;
+  }
+  

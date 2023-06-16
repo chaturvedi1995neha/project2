@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital@0;1&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@500;600;700;800&family=Work+Sans:wght@300;400;600;900&display=swap');
+/* hide scrollbar but allow scrolling */
+
+ *::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+ } 
+
+body {
+  margin: 0;
+  
+}
+
+.container {
+  height:360vh;
+  background-color: #000;
+  position: relative;
+}
+
+.nav-menu {
+  position: fixed;
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem 0 2rem;
+  top: 2rem;
+  width: 96%;
+}
+
+.nav-logo {
+  width: 5rem;
+  aspect-ratio: 1;
+}
+
+.nav-menu-items {
+  font-size: 30px;
+  color: white;
+}
+
+.hero-primary {
+  background-color: #1d428a;
+  margin: auto;
+  position: fixed;
+}
+
+.hero-content {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 8rem;
+  font-family: "Poppins";
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.hero-content-text {
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.additional-div {
+  width: 100vw;
+  height: 300vh;
+  border: 1px solid #1d428a;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.invest {
+  color: white;
+  font-size: 145px;
+  position: fixed;
+   margin-left: 3rem;  
+   width: 64rem;
+  height: 11rem; 
+  font-family: "Poppins";
+  line-height: 9rem;
+  font-weight: bold;
+  margin-top: -3rem;
+  animation: fadeIn 1s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/* .img {
+  animation: fadeIn 1s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+} */
+
+.addition {
+  color: white;
+  margin-top: 40px;
+ 
+  font-size: 25px;
+  margin-left: -23rem;
+  position: fixed;
+  animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.scroll {
+  width: 20px;
+  height: 492px;
+  background-color: rgb(202, 195, 195);
+  margin-left: 63rem;
+  margin-top: -32rem;
+  animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
